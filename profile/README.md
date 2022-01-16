@@ -7,7 +7,7 @@
   <h2>Invoxer</h2>
 </div>
 
-<p align="center">Get to know your users and how to help them succeed. Measure customer satisfaction or research what to build next.</p>
+<p align="center">Measure customer satisfaction or research what to build next.</p>
 
 <div align="center">
   <a href="https://invoxer.com/about">About</a>
