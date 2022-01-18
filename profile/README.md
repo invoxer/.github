@@ -4,7 +4,7 @@
   <a href="https://invoxer.com">
     <img src="https://assets.invoxer.com/images/logomark/any.svg" height="88" alt="Invoxer Logomark">
   </a>
-  <h2>Invoxer</h2>
+  <h2>👋 Hey there! We're Invoxer</h2>
 </div>
 
 <p align="center">Measure customer satisfaction or research what to build next.</p>
